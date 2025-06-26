@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "barbeariabot-6d757",
+  "private_key_id": "deb86648ab2629720f005bf01649aec39130fbcd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOtUuaDOFKYerF\nsO4nuFrPkauas3GQiQOscZNg87CAouDgS7bjxKpX4oHCG+3xJ15syCpENFWijmlg\nQe3c08X/5LSK9pdGvRUSVHFXhXFOdbH52d35v8EvOVZ62Oa4HX+Oo5/jf/aC1Y6o\nLCegGbMriGCHwb0d0orysIpiqaWreFXT/J+EV3BNPXnWGDJ5R2wZwmT9p5Xe2ZPS\nmD6K+9VMdsRzo6QcM06+LPvIvIW511EMIRKFhEpdfpRQHKr80fCn6JXmmcIt73+8\n0cWU0E2/NX2RLS6MIjSVKXlN8HepoCMema8VBEnQezidAxQBi1WW5k1IYQXwwQq3\ncZszOevrAgMBAAECggEAOKvLMYpi3yCCVG5eLPzbZymAfac79ntKr6zMq4gqc/L6\nnWfD4bCEOvFSuSxRMd6B824LxtkHls26EAUuee7JZsTCY5roWSmWWBibh/eQlulL\nO56mtVrOUzwQWSmQedYRBSp6QKRc1vkKtUMPm1cJXUTDnLW1rcWh8x1jXynihfRk\nRLhjTIeuKoxJzuMKHb3uIhHpR5hPnJX/DkwugwS2jgXG6wuGr+4oWcGdNlAmNdyA\nDMnBEtAvj59S3n3b/WhrpJudiSN5TcSDbpz4Y/aq57lCp7mmR3rP4ct/Mq6ewnW+\nYqqT7IWqHrIfk/24SpABuRvFz2jbmuRT8PX23VMkYQKBgQDA4R67JHNMQzh0qYKi\n7RxLndKPRJJGb2FW2nUfUA/1xveoFHWAT5whcm2vCy9+cLJ62lsGiKhw+kjt+SHR\nJH9ZiyU10hsdaI2eYLUkEESYbhCnR7yejrLmiO+pkzkXqE0vnPsmh1EP8iO8Z79q\n2cOrpz6NIpVyQa9UZkr4OUYQCwKBgQC9aPoh7CKnnq3exAsXmnNbiuILqVHA65No\n/VuowJyvAWidhZ8xhYNycoctii0aRSNrzgsPpXBvjbRUTNnYQPgb0kEHxTPY78KD\nHrLVl8aJau7/hYrsm/gHXI/P5RL33YOiMtqTFmHle4WUztvBRY/bxs8pTZKI65bF\nsYtxX3mfoQKBgByPOOWs+AWKzok3sEg/o7junYbpOF+Fjnw1zLHeQP67f2A750og\nf5XUQ7lvhpDKTyMxwdit04MnDDVwdjlplhHEMLZPbgRkvtN8rlWwsvd/FKgwTxWL\nO6I3FIWfbwy5tvQd4nJKBw69Y90533YK2JZKJVDwlgBdCYENxHwMvvsRAoGAQ/Ji\nuMSS8fqUePNu3zrC4zYBPRmygDiCGwm4VeMy0fz5YHjM0OEKdIXtRELrRx9CQ6wY\nf7ZjjUESTaN8Cn3UA3b7aSQvI0VvS8Y5dTILQMShk/x+B78zzMBBvtx4X36ReCAy\nFM3UtJQJKYbDgqPHpZm+Oxze0kthPO4iDbuoT8ECgYBjEGCmaxj1fK5iZJVIfGOh\nqahfvyU+CjKs6E8oNitqn2muCmaBhOJoqoyaQjsxU5qOUu+PkiuSc5MrXWWvQKkn\nGEkecOXTdkHMOnhlzZGSpIZ8wIJamEqVKiUi8VdsE5GdJVf3UTAzUeMVsdx2Sgvf\n47NRuSsmv4zEZ+Hi24fDfQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@barbeariabot-6d757.iam.gserviceaccount.com",
+  "client_id": "103360562994227721616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40barbeariabot-6d757.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
